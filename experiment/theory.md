@@ -1,8 +1,7 @@
 <b>TEM Sample Preparation:</b><br>
 For observation under transmission electron microscope, the sample has to be transparent to the electron (i.e. sample should be thin enough to allow transmission of electrons through the sample). Thicker samples will attenuate the electrons completely and will limit their detection on the other side of the surface. In addition, higher energy electron beam may work for thicker samples (say 0.5-1.0 µm samples), but will also damage the sample. In summary, the actual features of sample may get modified due to high-energy electron interaction with matter (during imaging itself). Thus, it is wiser to ensure that the sample preparation or beam energy does not modify the real features (which may otherwise lead to improper conclusions). Usually, the steps involved in TEM sample preparation from a bulk sample (Fig. 1a) include slicing (Fig. 1b), grinding to less than 100 µm (Fig. 1c),  punching a 3 mm disc (Fig. 1d)  disc, followed by dimpling (Fig. 1e) down to 2-10 µm, and ending with jet polishing and/or ion-beam milling (Fig. 1f). <br>
 <img src="images/fig9.PNG"><br>
-<img src="images/exp9-sample.PNG">
-<img src="images/10.PNG"><br>
+<img src="images/sample_final2.PNG">
 Figure 1: The sample preparation involves using: a) the starting bulk sample, b) sectioning the sample to ~150-300 µm, c) Thinning it down to < 100 µm by grinding, d) punching a 3mm disc, followed by e) dimpling down to ~2-10 µm, and f) jet-polishing/ion-beam milling. <br>
 <br><br>
 Step 1: The first step in TEM sample preparation is to slice/cut the material down to < 100 µm. The process of thinning can be achieved by sectioning the sample with slow speed diamond saw or ultrasonic cutter or electro-discharge cutting. As the starting material may be in bulk form (a few mm to cm in sample thickness), thinning process starts with sectioning the material using diamond saw to obtain a thin sample (which may usually have thickness exceeding > 150-250 µm). Now further processing is required for being able to make this material observable under TEM.
@@ -12,8 +11,8 @@ Step 3: Thereafter, usually, a few of 3 mm diameter samples are punched out of t
 
 Step 4: These punched out samples are now dimpled using dimpler (Fig. 2a). In this process a vertical grinding disc is utilised to remove the material from the center, while the sample itself is also rotated horizontally. By this process, a spherical cavity is produced in the center, while the edges remain thick (which are useful in sample handling). The dimpling process can be done on one surface (Fig. 2b) or both the surfaces (both top and bottom), Fig. 2c. A glue is utilised to stick the sample to a mount and then heated to remove the glue. The sample surface can be reversed for two-side dimpling (Fig. 2c). Though more tedious, the double-dimpling process provides wider area for sample observation. The thinning is performed till the sample become very thin (say ~ 2-5 µm thick).
 
-<img src="images/12c.jpg"><br><br>
-<img src="images/20.PNG"><br>
+<img src="images/dimpler1.PNG"><br><br>
+<img src="images/dimpler.PNG"><br>
 <br>
 <img src="images/14.PNG"><br>
 Figure 2: a) TEM sample Dimpler showing that a vertical rotating grinder thins the TEM disc sample and the specimen itself rotates to provide a b) one-side dimple, or c) two-side dimple in the center of the sample.<br>
