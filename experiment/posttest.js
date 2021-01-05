@@ -90,58 +90,81 @@
 
   const myQuestions = [
     {
-      question: "1.	What is the advantage of cross-sectional sample preparation over conventional TEM sample preparation?",  ///// Write the question inside double quotes
+      question: "<img src='images/fig11.PNG'>",  ///// Write the question inside double quotes
       answers: {
-        a: "Cross-sectional TEM sample preparation process makes available larger region of interest available for imaging ",                  ///// Write the option 1 inside double quotes
-        b: "Cross-sectional TEM sample preparation process makes usage of higher kV for imaging and can provide higher resolution ",                  ///// Write the option 2 inside double quotes
-        c: "Cross-sectional TEM sample preparation process requires lesser number of steps ",                  ///// Write the option 2 inside double quotes
-        d: "Cross-sectional TEM sample preparation process is faster as it uses electrochemical etching. ",                  ///// Write the option 2 inside double quotes
+        a: "A-1, B-2, C-3, D-4",                  ///// Write the option 1 inside double quotes
+        b: "A-2, B-1, C-4, D-3 ",                  ///// Write the option 2 inside double quotes
+        c: "A-4, B-2, C-3, D-1 ",                  ///// Write the option 2 inside double quotes
+        d: "A-2, B-4, C-1, D-3 ",                  ///// Write the option 2 inside double quotes
 
               },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "2.	Cross-sectional TEM sample preparation is NOT preferred for imaging:",  ///// Write the question inside double quotes
+      question: "2. Double side dimpling of sample has advantage of",  ///// Write the question inside double quotes
       answers: {
-        a: "Modified top-surface via chemical treatment",                  ///// Write the option 1 inside double quotes
-        b: "Nano-crystallites in a bulk matrix  ",                  ///// Write the option 2 inside double quotes
-        c: "Interface between coating and substrate",                  ///// Write the option 2 inside double quotes
-        d: "d.	Nano-textured layers during multi-pass rolling of samples",                  ///// Write the option 2 inside double quotes
+        a: "Providing very sharp and narrow region of observation",                  ///// Write the option 1 inside double quotes
+        b: "Providing very shallow and wide region of observation ",                  ///// Write the option 2 inside double quotes
+        c: "Minimised sample damage  ",                  ///// Write the option 2 inside double quotes
+        d: "Easier sample handling  ",                  ///// Write the option 2 inside double quotes
         },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    
+    {
+      question: "3. The nano-sized powders may be observed under TEM by which technique:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Using few drops of powder-suspension on carbon coated copper grid",                  ///// Write the option 1 inside double quotes
+        b: "By conventional process of slicing, punching, dimpling, and ion beam milling ",                  ///// Write the option 2 inside double quotes
+        c: "By putting nano-powders on copper grid  ",                  ///// Write the option 2 inside double quotes
+        d: "By making slurry/paste of powders on carbon coated copper grid  ",                  ///// Write the option 2 inside double quotes
+        },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
 {
-      question: "3.	An important precaution to be observed for processing the cross-sectional TEM sample is:",
+      question: "4. The powder samples are suspended in the solution by",  ///// Write the question inside double quotes
       answers: {
-        a: "To preserve the sliced pieces in protected atmosphere and avoid their oxidation",
-        b: "Carefully slicing the samples to thickness of less than 1 mm",
-        c: "Utilising liquid nitrogen for the dimpling of samples",
-        d: "Preparing the surface for TEM observation using electrochemical etching"
-      },
-      correctAnswer: "a"
-    },
-      {
-      question: "4.	What problem may NOT crop up during mounting of the sliced samples for cross-sectional TEM:",
+        a: "Magnetic stirrer",                  ///// Write the option 1 inside double quotes
+        b: "Electric Heater",                  ///// Write the option 2 inside double quotes
+        c: "Gravity shaker  ",                  ///// Write the option 2 inside double quotes
+        d: "Ultrasonication  ",                  ///// Write the option 2 inside double quotes
+        },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+{
+      question: "5. A nanocrystalline powder material is usually supported on TEM holder for TEM imaging",  ///// Write the question inside double quotes
       answers: {
-        a: "Buoyancy effects may lift the samples up during pouring of epoxy/resin",
-        b: "Shifting of samples may occur during ",
-        c: "Alignment of interface region may occur during mounting ",
-        d: "Ion beam etching will not work on the mounted samples"
-      },
-      correctAnswer: "d"
-    },
+        a: "Using copper grid",                  ///// Write the option 1 inside double quotes
+        b: "Dispersing on carbon tape ",                  ///// Write the option 2 inside double quotes
+        c: "as stand-alone sample  ",                  ///// Write the option 2 inside double quotes
+        d: "On carbon coated copper grid  ",                  ///// Write the option 2 inside double quotes
+        },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+{
+      question: "6. Brittle materials are prepared for TEM imaging using",  ///// Write the question inside double quotes
+      answers: {
+        a: "Ion beam milling",                  ///// Write the option 1 inside double quotes
+        b: "Electrochemical Etching ",                  ///// Write the option 2 inside double quotes
+        c: "Physical Vapor deposition  ",                  ///// Write the option 2 inside double quotes
+        d: "Disc-slicing ",                  ///// Write the option 2 inside double quotes
+        },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+{
+      question: "7. Double side dimpling is preferred over one-sided dimpling because",  ///// Write the question inside double quotes
+      answers: {
+        a: "Double side dimpling has double efficiency of operation",                  ///// Write the option 1 inside double quotes
+        b: "Double side dimpling promotes less damage to material ",                  ///// Write the option 2 inside double quotes
+        c: "Double side dimpling provides more observable area for imaging  ",                  ///// Write the option 2 inside double quotes
+        d: "Double side dimpling reduces charging on the TEM sample",                  ///// Write the option 2 inside double quotes
+        },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+                              ///// To add more questions, copy the section below 
 
-      {
-      question: "5.	The sectioned samples are kept placed on the mount with the interface region facing:<br>Note: Larger region of interest is exposed for imaging.",
-      answers: {
-        a: "Parallel to top surface",
-        b: "Perpendicular to top surface",
-       
-      },
-      correctAnswer: "b"
-    },
+
+
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
