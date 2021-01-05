@@ -90,17 +90,17 @@
 
   const myQuestions = [
     {
-      question: "1.	Can biological samples be seen under TEM?",  ///// Write the question inside double quotes
+      question: "1.	Can biological samples be seen under TEM? <br>Note: Since liquid nitrogen is used near sample, the sample can be frozen to avoid any damage from electron beam (and also resist any evaporation).",  ///// Write the question inside double quotes
       answers: {
-        a: "YES",                  ///// Write the option 1 inside double quotes
-        b: "NO",
-        
+        a: "yes",                  ///// Write the option 1 inside double quotes
+        b: "No",
+        ///// Write the option 2 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
 {
-      question: "2.	The internal structure does not change during crushing of this material:",
+      question: "2. The internal structure does not change during crushing of this material:",
       answers: {
         a: "Ductile material",
         b: "Semi-crystalline",
@@ -109,7 +109,7 @@
       },
       correctAnswer: "c"
     },
-      {
+{
       question: "3.	Usually a copper grid is used in TEM holder for:",
       answers: {
         a: "Providing conductive path to materials",
@@ -119,18 +119,18 @@
       },
       correctAnswer: "b"
     },
-      {
+{
       question: "4.	The carbon coating on copper grid is used for:",
       answers: {
         a: "Enhancing the conductivity of the copper",
-        b: "Supporting the nanocrystalline powders from falling off within the grid-openings,
+        b: "Supporting the nanocrystalline powders from falling off within the grid-openings",
         c: "Enhancing the intensity of the electron beam",
         d: "Adding the lubricative properties of carbon"
       },
       correctAnswer: "b"
     },
-      {
-      question: "5.	Typically, what thickness of material is transparent to electrons (say at 200 keV)?",
+{
+      question: "5. Typically, what thickness of material is transparent to electrons (say at 200 keV)?",
       answers: {
         a: "< 200 nm",
         b: "< 2 µm",
@@ -139,6 +139,7 @@
       },
       correctAnswer: "a"
     },
+
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
