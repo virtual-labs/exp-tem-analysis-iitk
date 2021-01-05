@@ -102,7 +102,7 @@
     },
 
     {
-      question: "2.Double side dimpling of sample has advantage of",  ///// Write the question inside double quotes
+      question: "2. Double side dimpling of sample has advantage of",  ///// Write the question inside double quotes
       answers: {
         a: "Providing very sharp and narrow region of observation",                  ///// Write the option 1 inside double quotes
         b: "Providing very shallow and wide region of observation ",                  ///// Write the option 2 inside double quotes
@@ -112,7 +112,7 @@
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     {
-      question: "3.The nano-sized powders may be observed under TEM by which technique:",  ///// Write the question inside double quotes
+      question: "3. The nano-sized powders may be observed under TEM by which technique:",  ///// Write the question inside double quotes
       answers: {
         a: "Using few drops of powder-suspension on carbon coated copper grid",                  ///// Write the option 1 inside double quotes
         b: "By conventional process of slicing, punching, dimpling, and ion beam milling ",                  ///// Write the option 2 inside double quotes
@@ -122,7 +122,7 @@
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
 {
-      question: "4.The powder samples are suspended in the solution by",  ///// Write the question inside double quotes
+      question: "4. The powder samples are suspended in the solution by",  ///// Write the question inside double quotes
       answers: {
         a: "Magnetic stirrer",                  ///// Write the option 1 inside double quotes
         b: "Electric Heater",                  ///// Write the option 2 inside double quotes
@@ -132,7 +132,7 @@
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
 {
-      question: "5.A nanocrystalline powder material is usually supported on TEM holder for TEM imaging",  ///// Write the question inside double quotes
+      question: "5. A nanocrystalline powder material is usually supported on TEM holder for TEM imaging",  ///// Write the question inside double quotes
       answers: {
         a: "Using copper grid",                  ///// Write the option 1 inside double quotes
         b: "Dispersing on carbon tape ",                  ///// Write the option 2 inside double quotes
@@ -142,7 +142,7 @@
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
 {
-      question: "6.Brittle materials are prepared for TEM imaging using",  ///// Write the question inside double quotes
+      question: "6. Brittle materials are prepared for TEM imaging using",  ///// Write the question inside double quotes
       answers: {
         a: "Ion beam milling",                  ///// Write the option 1 inside double quotes
         b: "Electrochemical Etching ",                  ///// Write the option 2 inside double quotes
@@ -152,7 +152,7 @@
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
 {
-      question: "7.Double side dimpling is preferred over one-sided dimpling because",  ///// Write the question inside double quotes
+      question: "7. Double side dimpling is preferred over one-sided dimpling because",  ///// Write the question inside double quotes
       answers: {
         a: "Double side dimpling has double efficiency of operation",                  ///// Write the option 1 inside double quotes
         b: "Double side dimpling promotes less damage to material ",                  ///// Write the option 2 inside double quotes
