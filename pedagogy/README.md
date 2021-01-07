@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<b> Experiment : Indexing of Diffraction Patterns (Ring Pattern & Spot Pattern)  <a name="top"></a> <br>
+<b> Experiment : Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Materials Science Engineering
