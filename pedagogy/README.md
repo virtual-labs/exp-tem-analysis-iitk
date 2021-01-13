@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<b> Experiment : Indexing of Diffraction Patterns (Ring Pattern & Spot Pattern)  <a name="top"></a> <br>
+<b> Experiment : Sample Preparation for TEM analysis (Bulk metal, Powder sample, Brittle material)  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Materials Science Engineering
@@ -63,9 +63,9 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Student will be able to prepare powder material for TEM analysis | Dispersion of powder thoroughly into highly volatile medium such as alcohol<br>- Transferring few drops of solution onto pre-carbon coated copper TEM grids<br>- Drying properly for observation | Type the question that will assess what student has learnt
-2.| Student will be able to index spot pattern |- Sectioning thin slices from bulk material<br>- Thinning down to 80-100 m<br>- Punching out 3mm discs<br>- Twinjet electro polishing of discs<br>- Washing and drying for TEM observation| 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
-3.| Student will be able to prepare brittle material for TEM analysis |Sectioning thin slices from bulk material<br>- Thinning down to 80-100 m<br>- Cutting 3mm discs using ultrasonic disc cutter<br>-Dimpling the 3mm disc<br>- Ion beam milling for final thinning| 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| Student will be able to prepare powder material for TEM analysis | Dispersion of powder thoroughly into highly volatile medium such as alcohol<br>- Transferring few drops of solution onto pre-carbon coated copper TEM grids<br>- Drying properly for observation | Dispersion of powder is carried out in which medium?<br>a)Water<br><b>b)Alcohol</b><br>c)Kerosine<br>d)None of these<br>
+2.| Student will be able to plan to prepare bulk metallic material for TEM analysis |- Sectioning thin slices from bulk material<br>- Thinning down to 80-100 m<br>- Punching out 3mm discs<br>- Twinjet electro polishing of discs<br>- Washing and drying for TEM observation| After sectioning thin slices, mateiral is thin down to what size?<br> A. 20-30µm<br> B. 40-60µm <br> C. 50-70µm <br> <b> D. 80-100µm </b> <br>
+3.| Student will be able to prepare brittle material for TEM analysis |Sectioning thin slices from bulk material<br>- Thinning down to 80-100 m<br>- Cutting 3mm discs using ultrasonic disc cutter<br>-Dimpling the 3mm disc<br>- Ion beam milling for final thinning| What will be the size of discs to be cut using ultra sonic cutter?<br> A. 1mm <br> <b>B. 3mm</b> <br> C. 5mm <br> <b> D. 8mm </b> <br> 
 
 
 
