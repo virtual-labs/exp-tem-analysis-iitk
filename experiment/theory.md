@@ -12,7 +12,7 @@
 <img src="images/sample_final3.PNG"><br><br>
 <img src="images/dimpling.jpeg"><br>
 
-Figure 1: The sample preparation involves using: a) the starting bulk sample, b) sectioning the sample to ~150-300 µm, c) Thinning it down to < 100 µm by grinding, d) punching a 3mm disc, followed by e) dimpling down to ~2-10 µm, and f) jet-polishing/ion-beam milling. <br>
+Figure 1: The sample preparation involves using: a) the starting bulk sample, b) sectioning the sample to ~150-300 µm, c) Thinning it down to < 100 µm by grinding, d) punching a 3mm disc, followed by e) dimpling down to ~2-10 µm, and f) jet-polishing/ion-beam milling. 
 <br><br>
 Step 1: The first step in TEM sample preparation is to slice/cut the material down to < 100 µm. The process of thinning can be achieved by sectioning the sample with slow speed diamond saw or ultrasonic cutter or electro-discharge cutting. As the starting material may be in bulk form (a few mm to cm in sample thickness), thinning process starts with sectioning the material using diamond saw to obtain a thin sample (which may usually have thickness exceeding > 150-250 µm). Now further processing is required for being able to make this material observable under TEM.
 
