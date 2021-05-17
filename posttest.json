@@ -1,0 +1,64 @@
+[{
+	"question": "<img src='images/fig11.PNG'>",
+	"answers": {
+		"a": "A-1, B-2, C-3, D-4",
+		"b": "A-2, B-1, C-4, D-3 ",
+		"c": "A-4, B-2, C-3, D-1 ",
+		"d": "A-2, B-4, C-1, D-3 "
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2. Double side dimpling of sample has advantage of",
+	"answers": {
+		"a": "Providing very sharp and narrow region of observation",
+		"b": "Providing very shallow and wide region of observation ",
+		"c": "Minimised sample damage  ",
+		"d": "Easier sample handling  "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "3. The nano-sized powders may be observed under TEM by which technique:",
+	"answers": {
+		"a": "Using few drops of powder-suspension on carbon coated copper grid",
+		"b": "By conventional process of slicing, punching, dimpling, and ion beam milling ",
+		"c": "By putting nano-powders on copper grid  ",
+		"d": "By making slurry/paste of powders on carbon coated copper grid  "
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "4. The powder samples are suspended in the solution by",
+	"answers": {
+		"a": "Magnetic stirrer",
+		"b": "Electric Heater",
+		"c": "Gravity shaker  ",
+		"d": "Ultrasonication  "
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "5. A nanocrystalline powder material is usually supported on TEM holder for TEM imaging",
+	"answers": {
+		"a": "Using copper grid",
+		"b": "Dispersing on carbon tape ",
+		"c": "as stand-alone sample  ",
+		"d": "On carbon coated copper grid  "
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "6. Brittle materials are prepared for TEM imaging using",
+	"answers": {
+		"a": "Ion beam milling",
+		"b": "Electrochemical Etching ",
+		"c": "Physical Vapor deposition  ",
+		"d": "Disc-slicing "
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "7. Double side dimpling is preferred over one-sided dimpling because",
+	"answers": {
+		"a": "Double side dimpling has double efficiency of operation",
+		"b": "Double side dimpling promotes less damage to material ",
+		"c": "Double side dimpling provides more observable area for imaging  ",
+		"d": "Double side dimpling reduces charging on the TEM sample"
+	},
+	"correctAnswer": "c"
+}]

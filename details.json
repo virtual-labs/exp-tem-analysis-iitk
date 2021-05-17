@@ -1,0 +1,66 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode",     
+			"Lab": "Electron Microscopy For Beginners",               
+			"Discipline": "Material Science and Engineering",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Prof. Kantesh Balani",         
+      "Institute": "Indian Institute of Technology Kanpur",         
+      "InstituteAcronym": "IITK"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Prof. Aparna Dixit",             
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+       {       
+			"Contributer": "Shreyas Mishra",             
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+
+       {       
+			"Contributer": "Simran Singh",              
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+
+       {       
+			"Contributer": "Sumit Yadav",             
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+
+       {       
+			"Contributer": "Suryansh Tripathi",              
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+       {       
+			"Contributer": "Vaibhav Shukla",              
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+       {       
+			"Contributer": "Vaibhav Mantri",              
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       },
+       {       
+			"Contributer": "Siddharth Singh",              
+      "Institute": "PSIT Kanpur",               
+			"InstituteAcronym": "PSIT"         
+       }
+   ]
+
+}
