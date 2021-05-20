@@ -1,0 +1,44 @@
+[{
+	"question": "1.\tCan biological samples be seen under TEM? <br>Note: Since liquid nitrogen is used near sample, the sample can be frozen to avoid any damage from electron beam (and also resist any evaporation).",
+	"answers": {
+		"a": "yes",
+		"b": "No"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. The internal structure does not change during crushing of this material:",
+	"answers": {
+		"a": "Ductile material",
+		"b": "Semi-crystalline",
+		"c": "Brittle material",
+		"d": "Metals"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "3.\tUsually a copper grid is used in TEM holder for:",
+	"answers": {
+		"a": "Providing conductive path to materials",
+		"b": "Supporting the powder material for imaging",
+		"c": "Serving as source of electron-beam in TEM",
+		"d": "Providing cooling to the heated sample"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "4.\tThe carbon coating on copper grid is used for:",
+	"answers": {
+		"a": "Enhancing the conductivity of the copper",
+		"b": "Supporting the nanocrystalline powders from falling off within the grid-openings",
+		"c": "Enhancing the intensity of the electron beam",
+		"d": "Adding the lubricative properties of carbon"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "5. Typically, what thickness of material is transparent to electrons (say at 200 keV)?",
+	"answers": {
+		"a": "< 200 nm",
+		"b": "< 2 µm",
+		"c": "< 20 µm",
+		"d": "< 200 µm"
+	},
+	"correctAnswer": "a"
+}]
